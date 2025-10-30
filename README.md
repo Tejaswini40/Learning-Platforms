@@ -68,11 +68,17 @@ Each tool played a unique role in planning, designing, building, and presenting 
 
 Tool	Purpose / How It Was Used
 🧠 ChatGPT (by OpenAI)	Used as an AI assistant for brainstorming ideas, structuring content, writing clean and optimized HTML/CSS/Bootstrap code, and generating project documentation (README, About, Challenges).
+
 🎨 Canva	Used for designing layout mockups, color palettes, and visual assets for presentation materials and reports. Helped in creating banners, diagrams, and clean visual summaries.
+
 🌐 Google	Used extensively for research — including UI/UX references, image sourcing guidelines, and collecting verified information about online learning platforms like Coursera, edX, and Udemy.
+
 💻 Visual Studio Code (VS Code)	The main code editor used to develop and test the HTML, CSS, and JavaScript files locally.
+
 🧩 Bootstrap 5.3.3	Frontend framework used for responsive layout, navigation bar, carousel, and cards.
+
 🖼️ Unsplash & Pixabay	Sources for royalty-free, high-resolution images used in the carousel and on various pages.
+
 🚀 GitHub Pages	Used to host and deploy the FinalYearHub website online, making it accessible for demonstration and review.
 
 
