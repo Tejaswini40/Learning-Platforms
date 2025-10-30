@@ -70,11 +70,11 @@ Tool	Purpose / How It Was Used
 
 
 
-
 🗓️ Total Duration:
 3 Days
 The FinalYearHub website was successfully designed, developed, and deployed within 3 days.
 Efficient use of tools like ChatGPT, Canva, and Google streamlined the workflow — allowing quick design creation, code generation, and deployment without compromising quality or responsiveness.
+
 
 
 
