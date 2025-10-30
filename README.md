@@ -1,10 +1,9 @@
-https://tejus-learning-hub.netlify.app/
 👩‍💻 FinalYearHub is a responsive, user-friendly website created to help final-year students explore the best online learning platforms and skill-building resources available on the web.
 It serves as a digital guide for students who want to upskill, prepare for placements, or continue learning beyond college.
 
 The project was developed as part of an academic web development portfolio using HTML, CSS, Bootstrap 5, and JavaScript, with the goal of combining clarity, design, and usefulness in one professional site.
-🚀 Project Overview
 
+🚀 Project Overview
 **FinalYearHub** is designed as an **educational resource hub**.  
 It showcases top e-learning websites like Coursera, edX, and Udemy — helping students find quality online courses, certifications, and upskilling opportunities.
 
@@ -13,6 +12,8 @@ The site includes:
 - A **Home Page** listing trusted online platforms.
 - An **About Page** explaining the purpose and mission of FinalYearHub.
 - A **Contact Page** with a functional form for inquiries.
+
+🚀 Demo
 https://tejus-learning-hub.netlify.app/
 
 🌐Deployment & Hosting
