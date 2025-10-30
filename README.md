@@ -24,32 +24,18 @@ https://tejus-learning-hub.netlify.app/
 
 🧩 Additional Tools (Development Environment)
 Tool	Description
-Visual Studio Code	Code editor used for writing and testing HTML, CSS, and JS files.
+Visual Studio Code	Code editor used for writing and testing HTML, CSS, and Bootstrap
+
 Live Server Extension	For instant browser preview during development.
+
 Git & GitHub	Version control and remote repository for collaboration and deployment.
+
 FinalYearHub/
 │
-├── index.html              # 🏠 Home page (with 3-slide carousel and learning platform cards)
-├── about.html              # ℹ️ About page describing purpose and mission
-├── contact.html            # ✉️ Contact page with working form
-│
-├── assets/                 # 📦 Folder for media files and additional resources
-│   ├── css/
-│   │   └── style.css       # Custom CSS styles (if used, besides Bootstrap)
-│   └── images/
-│       ├── carousel1.jpg   # Carousel image 1
-│       ├── carousel2.jpg   # Carousel image 2
-│       ├── carousel3.jpg   # Carousel image 3
-│       ├── about.jpg       # About page image
-│       └── contact-bg.jpg  # Contact page background/banner
-│
-├── screenshots/            # 📸 Optional folder for website preview images (for README)
-│   ├── homepage.png
-│   ├── aboutpage.png
-│   └── contactpage.png
-│
-├── README.md               # 📘 Project documentation (overview, setup, tech stack)
-└── LICENSE                 # ⚖️ License file (MIT license or similar)
+├── index.html             
+├── about.html           
+├── contact.html    
+
 
 
 | **Challenge**                         | **Description**                                                                   | **Solution Implemented**                                                                                                   |
@@ -83,10 +69,14 @@ Tool	Purpose / How It Was Used
 🚀 GitHub Pages	Used to host and deploy the FinalYearHub website online, making it accessible for demonstration and review.
 
 
+
+
 🗓️ Total Duration:
 3 Days
 The FinalYearHub website was successfully designed, developed, and deployed within 3 days.
 Efficient use of tools like ChatGPT, Canva, and Google streamlined the workflow — allowing quick design creation, code generation, and deployment without compromising quality or responsiveness.
+
+
 
 
 🎓 Education & Learning
